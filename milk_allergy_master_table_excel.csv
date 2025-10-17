@@ -140,3 +140,18 @@ colostrum,"colostrum, milk",milk suplement,,always:always,Trinity
 lactose,lactose,milk sugar,,always:never,Trinity
 condensed whey,"condensed whey, whey",,,tolerated:always,Trinity
 calcium lactate,"calcium lactate, lactate, calcium",sometimes dairy-derived,,tolerated:sometimes,Trinity
+almond milk,"almond milk, almond, milk",plant-based milk alternative,,never:never,Trinity
+cashew milk,"cashew milk, cashew, milk",plant-based milk alternative,,never:never,Trinity
+coconut milk,"coconut milk, coconut, milk",plant-based milk alternative,,never:never,Trinity
+oat milk,"oat milk, oat, milk",plant-based milk alternative,,never:never,Trinity
+soy milk,"soy milk, soy, milk",plant-based milk alternative,,never:never,Trinity
+rice milk,"rice milk, rice, milk",plant-based milk alternative,,never:never,Trinity
+hemp milk,"hemp milk, hemp, milk",plant-based milk alternative,,never:never,Trinity
+flax milk,"flax milk, flax, milk",plant-based milk alternative,,never:never,Trinity
+pea milk,"pea milk, pea, milk",plant-based milk alternative,,never:never,Trinity
+macadamia milk,"macadamia milk, macadamia, milk",plant-based milk alternative,,never:never,Trinity
+hazelnut milk,"hazelnut milk, hazelnut, milk",plant-based milk alternative,,never:never,Trinity
+walnut milk,"walnut milk, walnut, milk",plant-based milk alternative,,never:never,Trinity
+pistachio milk,"pistachio milk, pistachio, milk",plant-based milk alternative,,never:never,Trinity
+quinoa milk,"quinoa milk, quinoa, milk",plant-based milk alternative,,never:never,Trinity
+tiger nut milk,"tiger nut milk, tiger nut, tigernut, milk","plant-based milk alternative, not actually a nut",,never:never,Trinity
