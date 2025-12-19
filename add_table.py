@@ -6,7 +6,7 @@ purpose: Create master and user tables for allergen categories with standardized
 """
 
 DATABASE_NAME = "ingredients.db"
-CATEGORY_NAME = "dairy"  # Change this for each allergen category (gluten, soy, etc.)
+CATEGORY_NAME = "soy"  # Change this for each allergen category (gluten, soy, etc.)
 
 import sqlite3
 

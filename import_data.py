@@ -9,12 +9,14 @@ note: INSERT OR REPLACE updates timestamps. For minor updates, create a small
 note: Save CSV file as CSV UTF-8(Comma delimited) if available. Otherwise use CSV (Comma delimited).
 """
 
+CATEGORY_NAME = "soy"
+CSV_FILENAME = "Soy Master Table.csv"
+
 DATABASE_NAME = "ingredients.db"
-CSV_FILENAME = "milk_allergy_master_table_excel.csv"
-TABLE_NAME = "dairy_master"
+TABLE_NAME = f"{CATEGORY_NAME}_master"
 # Version structure: major-update.minor-update.patch
-NEW_VERSION = "2.0.0"
-CATEGORY_NAME = "dairy"
+NEW_VERSION = "1.0.0"
+
 
 import sqlite3
 import csv

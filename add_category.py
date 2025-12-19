@@ -5,6 +5,8 @@ created: 10/16/2025
 updated: 12/18/2025
 purpose: Add a new allergen category to the categories metadata table.
 """
+# If running on back end, set NEW to new category.
+NEW = "soy"
 def add_category(CATEGORY_NAME):
     DATABASE_NAME = "ingredients.db"
     CATEGORY_NAME = CATEGORY_NAME
@@ -25,3 +27,5 @@ def add_category(CATEGORY_NAME):
     # conn.close()
 
     print(f"✓ {DISPLAY_NAME} category added as '{CATEGORY_NAME}' (version {INITIAL_VERSION})!")
+
+add_category(NEW)
